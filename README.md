@@ -1,4 +1,4 @@
-# EdgeComputing_DataAggregator
+# XR_Cloud_DataAggregator
 
 info_device.txt
 
